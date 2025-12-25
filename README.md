@@ -44,13 +44,13 @@ A turn-based **card + dice battle game** built with **Python and Pygame**, where
 - Pygame
 - 
 This project requires additional image assets.  
-Download them here and place them in the `assets/` directory: https://drive.google.com/file/d/1XFqttKkuWj4WlNw-s6TOt1Q4N5Uj2STf/view?usp=sharing
+Download them here: https://drive.google.com/file/d/1XFqttKkuWj4WlNw-s6TOt1Q4N5Uj2STf/view?usp=sharing then create and place them in the `/assets` directory in your root folder.
 
 ### Install
 Clone the repository and set up a virtual environment:
 
-git clone https://github.com/<your-username>/yappbattles.git
-cd yappbattles
+git clone https://github.com<your-username>/YappBattles/
+cd YappBattles
 
 python -m venv .venv
 
